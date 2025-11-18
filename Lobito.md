@@ -32,5 +32,5 @@
 
 ## Código
 
-https://github.com](https://github.com/BaphomeT-T/Lobito
+https://github.com/BaphomeT-T/Lobito
 
