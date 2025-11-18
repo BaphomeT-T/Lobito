@@ -31,4 +31,6 @@
 <img width="455" height="656" alt="image" src="https://github.com/user-attachments/assets/4c805942-2ffd-4663-b05e-156838daf8e6" />
 
 ## Código
-https://github.com/BaphomeT-T/Lobito 
+
+[Código Aquí]([URL](https://github.com/BaphomeT-T/Lobito ))
+
